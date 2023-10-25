@@ -1,0 +1,2 @@
+# ignore all *.doc files in main directory
+*.doc
